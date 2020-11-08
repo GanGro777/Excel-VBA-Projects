@@ -1,7 +1,8 @@
 # Excel-VBA-Projects
 This repository contains the Macro-Enabled Excel Files (_.xlsm_), containing Excel VBA projects.<br/>
 In order to view and the project, first download the specific _.xlsm_ file, then open it using Excel on you PC.<br/>
-Also remember to switch on _Enable Editing_ and _Enable Macros_ for functionality.
+
+**P.S** - Also remember to switch on _Enable Editing_ and _Enable Macros_ for functionality.
 
 This repository contains the following projects:
 1. Real-time Currency Converter
