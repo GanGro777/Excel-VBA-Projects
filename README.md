@@ -5,14 +5,14 @@ In order to view and the project, first download the specific _.xlsm_ file from 
 **P.S** - Also remember to turn on `Enable Editing` and `Enable Macros` option for functionality.
 
 This repository contains the following projects:
-### [1. Real-time Currency Converter](/Project-Files/Grade-Manager.xlsm)
+### [1. Real-time Currency Converter](/Project-Files/Real-Time-Currency-Convertor.xlsm)
 This guided project (under Coursera) enables the user to use real-time exchange rates to convert currency from one unit to another. Done using automating a data query in Excel, and linking the results to an easy-to-use VBA user form.
 
-### 2. Regression Toolbox
+### [2. Regression Toolbox](/Project-Files/Regression-Toolbox.xlsm)
 This guided project (under Coursera) enables the user to create a custom linear regression model using a user-hypothesized/chosen form of the model, by fitting the x-y data provided to the chosen model and outputting the model parameters and the adjusted R-squared value. Also gives the user the option to plot the experimental data and the model predictions.
 
-### 3. Monte Carlo Simualtion for Profitabiliy Analysis
+### 3. [Monte Carlo Simualtion for Profitabiliy Analysis](/Project-Files/Profitabiliy-Analysis.xlsm)
 Monte Carlo simulations aim to simulate the possible pathway of a future endeavor, experiment, or process, given multiple inputs that each have uncertainty. This guided project (under Coursera) allows the user to simulate a profitability analysis based on net present value (NPV) of a proposed capital project.
 
-### 4. Grade (Score) Manager
+### 4. [Grade (Score) Manager](/Project-Files/Grade-Manager.xlsm)
 This guided project (under Coursera) is a tool that will consolidate and combine student grades from multiple class section roster grade books, with many accessibility options like _Search and Replace_, _Adding and Deleting Columns_, _Creating Backup Files and Syncing Gradebooks_, all done using interactive VBA userforms.
