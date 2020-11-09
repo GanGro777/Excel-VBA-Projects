@@ -15,4 +15,4 @@ This guided project (under Coursera) enables the user to create a custom linear 
 Monte Carlo simulations aim to simulate the possible pathway of a future endeavor, experiment, or process, given multiple inputs that each have uncertainty. This guided project (under Coursera) allows the user to simulate a profitability analysis based on net present value (NPV) of a proposed capital project.
 
 ### 4. Grade (Score) Manager
-This guided project (under Coursera) is a tool that will consolidate and combine student grades from multiple class section roster grade books, with many accessibility options like _Search and Replace_, _Adding and Deleting Columns_, _Creating Backup Files and Syncing Gradebooks_.
+This guided project (under Coursera) is a tool that will consolidate and combine student grades from multiple class section roster grade books, with many accessibility options like _Search and Replace_, _Adding and Deleting Columns_, _Creating Backup Files and Syncing Gradebooks_, all done using interactive VBA userforms.
