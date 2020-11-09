@@ -1,6 +1,6 @@
 # Excel-VBA-Projects
 This repository contains the Macro-Enabled Excel Files (_.xlsm_), containing Excel VBA projects.<br/>
-In order to view and the project, first download the specific _.xlsm_ file, then open it using Excel on you PC.<br/>
+In order to view and the project, first download the specific _.xlsm_ file from the `Project Files` folder, then open it using Excel on you PC.<br/>
 
 **P.S** - Also remember to turn on `Enable Editing` and `Enable Macros` option for functionality.
 
