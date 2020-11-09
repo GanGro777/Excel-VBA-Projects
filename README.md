@@ -8,6 +8,11 @@ This repository contains the following projects:
 ### 1. Real-time Currency Converter
 This guided project (under Coursera) enables the user to use real-time exchange rates to convert currency from one unit to another. Done using automating a data query in Excel, and linking the results to an easy-to-use VBA user form.
 
-2. Regression Toolbox
-3. Monte Carlo Simualtion for Profitabiliy Analysis
-4. Grade (Score) Manager
+### 2. Regression Toolbox
+This guided project (under Coursera) enables the user to create a custom linear regression model using a user-hypothesized/chosen form of the model, by fitting the x-y data provided to the chosen model and outputting the model parameters and the adjusted R-squared value. Also gives the user the option to plot the experimental data and the model predictions.
+
+### 3. Monte Carlo Simualtion for Profitabiliy Analysis
+Monte Carlo simulations aim to simulate the possible pathway of a future endeavor, experiment, or process, given multiple inputs that each have uncertainty. This guided project (under Coursera) allows the user to simulate a profitability analysis based on net present value (NPV) of a proposed capital project.
+
+### 4. Grade (Score) Manager
+This guided project (under Coursera) is a tool that will consolidate and combine student grades from multiple class section roster grade books, with many accessibility options like _Search and Replace_, _Adding and Deleting Columns_, _Creating Backup Files and Syncing Gradebooks_.
