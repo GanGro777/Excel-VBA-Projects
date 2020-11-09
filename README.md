@@ -11,7 +11,7 @@ This guided project (under Coursera) enables the user to use real-time exchange 
 ### [2. Regression Toolbox](/Project-Files/Regression-Toolbox.xlsm)
 This guided project (under Coursera) enables the user to create a custom linear regression model using a user-hypothesized/chosen form of the model, by fitting the x-y data provided to the chosen model and outputting the model parameters and the adjusted R-squared value. Also gives the user the option to plot the experimental data and the model predictions.
 
-### 3. [Monte Carlo Simualtion for Profitability Analysis](/Project-Files/Profitability-Analysis.xlsm)
+### 3. [Monte Carlo Simulation for Profitability Analysis](/Project-Files/Profitability-Analysis.xlsm)
 Monte Carlo simulations aim to simulate the possible pathway of a future endeavor, experiment, or process, given multiple inputs that each have uncertainty. This guided project (under Coursera) allows the user to simulate a profitability analysis based on net present value (NPV) of a proposed capital project.
 
 ### 4. [Grade (Score) Manager](/Project-Files/Grade-Manager.xlsm)
