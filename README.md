@@ -5,7 +5,9 @@ In order to view and the project, first download the specific _.xlsm_ file, then
 **P.S** - Also remember to turn on _Enable Editing_ and _Enable Macros_ option for functionality.
 
 This repository contains the following projects:
-1. Real-time Currency Converter
+## 1. Real-time Currency Converter
+This guided project enable one to use real-time exchange rates to convert currency from one unit to another.
+
 2. Regression Toolbox
 3. Monte Carlo Simualtion for Profitabiliy Analysis
 4. Grade (Score) Manager
