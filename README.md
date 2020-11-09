@@ -5,7 +5,7 @@ In order to view and the project, first download the specific _.xlsm_ file from 
 **P.S** - Also remember to turn on `Enable Editing` and `Enable Macros` option for functionality.
 
 This repository contains the following projects:
-### [1. Real-time Currency Converter](Project Files/Real-Time Currency Converter)
+### [1. Real-time Currency Converter](Project Files/Real-Time Currency Converter.xlsm)
 This guided project (under Coursera) enables the user to use real-time exchange rates to convert currency from one unit to another. Done using automating a data query in Excel, and linking the results to an easy-to-use VBA user form.
 
 ### 2. Regression Toolbox
